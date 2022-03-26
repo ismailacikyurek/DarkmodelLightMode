@@ -1,1 +1,1 @@
-# darkmodel and Light
+# dark mode and Light mode
